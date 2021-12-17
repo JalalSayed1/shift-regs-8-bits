@@ -7,7 +7,7 @@
 
 | control | function  |
 |--|--|
-| 0 | <![endif]--> hold the previous register value |
+| 0 | hold the previous register value |
 | 1 | load in parallel |
 | 2 | shift bits right (lowest bit is lost, highest is given from serial input) |
 | 3 | shift left |
