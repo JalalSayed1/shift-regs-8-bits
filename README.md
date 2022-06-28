@@ -2,8 +2,8 @@
 ## About the project:
 - A fully featured 8-bit shift register in VHDL.
 - Inputs: clock signal, reset, RIN, LIN, parallel_in bus and control bits.
-- Output: Q (8-bits bus where bit 0 is from the first register) 
-- The register have a 3-bit control input to allow it to perform certian functions.
+- Output: Q (8-bits bus where bit 0 is from the first register)
+- The register has a 3-bit control input to allow it to perform certain functions.
 
 ## Functions the register can do:
 
